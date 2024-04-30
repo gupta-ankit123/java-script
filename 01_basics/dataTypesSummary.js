@@ -11,4 +11,10 @@ const myFunction=function(){
 }
 
 console.log(typeof myFunction);//returns function
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//stack(primitive), heap(non primitive)
+//in primitive data type a copy of the variable is given and original value is not changed
+//in non primitive data type a reference to the data is given 
+
  
