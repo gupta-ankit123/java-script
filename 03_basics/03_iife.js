@@ -1,4 +1,4 @@
-//immediately involed function expression
+//immediately invoked function expression
 
 (function chai (){
     //named iife
